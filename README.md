@@ -17,7 +17,7 @@ Hi, I’m Zaiff, an Electrical Engineer passionate about coding, motor diagnosti
 <br>
 📫 How to reach me: 
 - **Email**: huzaifashaikhmaths@gmail.com
-- **Phone**: 8140117549
+- **Mobile**: 8140117549
 <br>
 ## ⚡ Skills:
 <br>
