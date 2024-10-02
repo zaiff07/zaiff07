@@ -17,7 +17,6 @@ Hi, I’m Zaiff, an Electrical Engineer passionate about coding, motor diagnosti
 📫 How to reach me: 
 - **Email**: huzaifashaikhmaths@gmail.com
 <br>
-<br>
 ## ⚡ Skills:
 <br>
 <br>
