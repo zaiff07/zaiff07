@@ -1,6 +1,6 @@
 ## Hi there 👋
 <br>
-## About Me:
+## ⚡ About Me:
 <br>
 Hi, I’m Zaiff, an Electrical Engineer passionate about coding, motor diagnostics and development!
 <br>
