@@ -6,10 +6,12 @@
 <br>
 Hi, I’m Zaiff, an Electrical Engineer passionate about coding, motor diagnostics and development! I’m currently working on awesome projects.
 <br>
+<br>
 ## ⚡ Skills:
 <br>
+<br>
 - **Languages**: Python, Dart, C++
-- <br>
+<br>
 - **Tools**: Git, GitHub, ANSYS Maxwell, MATLAB
 <br>
 
