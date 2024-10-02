@@ -6,12 +6,7 @@
 Hi, I’m Zaiff, an Electrical Engineer passionate about coding, motor diagnostics and development! I’m currently working on awesome projects.
 <br>
 <br>
-## ⚡ Skills:
-<br>
-<br>
-- **Languages**: Python, Dart, C++
-<br>
-- **Tools**: Git, GitHub, ANSYS Maxwell, MATLAB
+
 <br>
 <br>
 🔭 I’m currently working on VFD simulation and motor diagnostics using ANSYS Maxwell and An AI-powered chatbot using Python for customer support.!
@@ -26,6 +21,12 @@ Hi, I’m Zaiff, an Electrical Engineer passionate about coding, motor diagnosti
 - **Email**: huzaifashaikhmaths@gmail.com
 <br>
 <br>
+## ⚡ Skills:
+<br>
+<br>
+- **Languages**: Python, Dart, C++
+<br>
+- **Tools**: Git, GitHub, ANSYS Maxwell, MATLAB
 ⚡ Fun fact: 
 <br>
 - I once built a DIY robot with spare parts from my old PC!
