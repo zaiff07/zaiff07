@@ -19,7 +19,6 @@ Hi, I’m Zaiff, an Electrical Engineer passionate about coding, motor diagnosti
 <br>
 ## ⚡ Skills:
 <br>
-<br>
 - **Languages**: Python, Dart, C++
 <br>
 - **Tools**: Git, GitHub, ANSYS Maxwell, MATLAB
