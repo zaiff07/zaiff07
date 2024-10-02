@@ -13,9 +13,9 @@ Hi, I’m Zaiff, an Electrical Engineer passionate about coding, motor diagnosti
 <br>
 
 🔭 I’m currently working on VFD simulation and motor diagnostics using ANSYS Maxwell and An AI-powered chatbot using Python for customer support.!
-<br>
+
 🌱 I’m currently learning Machine Learning algorithms using Python (TensorFlow, Scikit-Learn), and exploring advanced partial discharge analysis for electric motors.
-<br>
+
 👯 I’m looking to collaborate on projects related to motor diagnostics, VFD simulations. 
 <br>
 🤔 I’m looking for help with co-simulating partial discharge in motors using FEA, and optimizing motor performance.
