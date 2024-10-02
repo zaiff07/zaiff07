@@ -14,6 +14,7 @@ Hi, I’m Zaiff, an Electrical Engineer passionate about coding, motor diagnosti
 <br>
 🤔 I’m looking for help with co-simulating partial discharge in motors using FEA, and optimizing motor performance.
 <br>
+<br>
 📫 How to reach me: 
 - **Email**: huzaifashaikhmaths@gmail.com
 - **Phone**: 8140117549
