@@ -23,7 +23,8 @@ Hi, I’m Zaiff, an Electrical Engineer passionate about coding, motor diagnosti
 - **Languages**: Python, Dart, C++
 <br>
 - **Tools**: Git, GitHub, ANSYS Maxwell, MATLAB
-⚡ Fun fact: 
+<br>
+## ⚡ Fun fact: 
 <br>
 - I once built a DIY robot with spare parts from my old PC!
 <br>
